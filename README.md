@@ -1,6 +1,6 @@
 ### Hey there, I'm **Air Knight**! 🚀
 
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,coding,galaxy)
+![GitHub Banner](https://in.pinterest.com/virginiaestrell/github/#imgViewer)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E7FF&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+Tech+Enthusiast;UI/UX+Designer+%7C+Problem+Solver;Building+cool+stuff+%F0%9F%9A%80"/>
