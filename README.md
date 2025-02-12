@@ -57,8 +57,3 @@
 - 📖 Reading about **AI & Web Technologies**.
 - 🎮 Playing **video games & competitive coding challenges**.
 
-## 📫 Let's Connect!
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/knightair1550)
-
-⚡ *"Code is my sword, creativity is my armor!"* ⚔️
