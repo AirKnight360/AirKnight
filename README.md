@@ -58,3 +58,51 @@
 - 📖 Reading about **AI & Web Technologies**.
 - 🎮 Playing **video games & competitive coding challenges**.
 
+
+
+
+
+
+# Hi there, I'm AirKnight360 👋
+
+Welcome to my GitHub profile! Here you'll find some of the projects I've been working on and contributions I've made to the open-source community.
+
+## About Me
+
+- 🌱 I’m currently learning __[Your current learning focus]__.
+- 👯 I’m looking to collaborate on __[Your collaboration interests]__.
+- 🤔 I’m looking for help with __[Any help needed]__.
+- 💬 Ask me about __[Topics you are knowledgeable about]__.
+- 📫 How to reach me: __[Your contact information]__.
+- 😄 Pronouns: __[Your pronouns]__.
+- ⚡ Fun fact: __[A fun fact about you]__.
+
+## GitHub Stats
+
+![AirKnight360's GitHub stats](https://github-readme-stats.vercel.app/api?username=AirKnight360&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AirKnight360&layout=compact&theme=radical)
+
+## Projects
+
+Here are some of my notable projects:
+
+- [Project 1](https://github.com/AirKnight360/project1): __Short description of project 1__.
+- [Project 2](https://github.com/AirKnight360/project2): __Short description of project 2__.
+- [Project 3](https://github.com/AirKnight360/project3): __Short description of project 3__.
+
+## Contributions
+
+I enjoy contributing to open-source projects. Here are some repositories I've contributed to:
+
+- [Repository 1](https://github.com/example/repo1)
+- [Repository 2](https://github.com/example/repo2)
+- [Repository 3](https://github.com/example/repo3)
+
+## Connect with Me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or follow me on [Twitter](https://twitter.com/your-profile).
+
+Thanks for visiting my profile!
