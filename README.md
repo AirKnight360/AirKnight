@@ -21,14 +21,6 @@ Welcome to my GitHub profile! Here you'll find some of the projects I've been wo
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AirKnight360&layout=compact&theme=radical)
 
-## Projects
-
-Here are some of my notable projects:
-
-<-- - [Project 1](https://github.com/AirKnight360/project1): __Short description of project 1__.
-- [Project 2](https://github.com/AirKnight360/project2): __Short description of project 2__.
-- [Project 3](https://github.com/AirKnight360/project3): __Short description of project 3__. -->
-
 ## Contributions
 
 I enjoy contributing to open-source projects:
